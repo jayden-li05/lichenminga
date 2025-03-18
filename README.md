@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lichenming
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning in China
+- 🌱 I’m currently learning in China & Korea
 
 
 <!---
