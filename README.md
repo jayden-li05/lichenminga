@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @lichenming
+- 👋 Hi, I’m jayden
+- 
 - 👀 I’m interested in computer vision
 - 🌱 I’m currently learning in China & Korea
 
